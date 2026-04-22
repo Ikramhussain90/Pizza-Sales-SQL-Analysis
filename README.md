@@ -82,4 +82,4 @@ pizza_types     → pizza_type_id, name, category, ingredients
 
 ## 👤 Author
 **[Ikram Hussain]**  
-[LinkedIn Profile] | [GitHub Profile]
+[www.linkedin.com/in/ikram-hussain-6886b454] | [https://github.com/Ikramhussain90]
