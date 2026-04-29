@@ -72,7 +72,15 @@ pizza_types     → pizza_type_id, name, category, ingredients
 | `Pizza_Sales_Analysis.sql` | All 12 analysis queries |
 | `README.md` | Project documentation |
 
----
+ ## 📸 Sample Query Output
+<img width="1410" height="660" alt="image" src="https://github.com/user-attachments/assets/3e8a069f-cc30-4e4e-aa2f-3c0d7c24a435" />
+## 📊 Revenue by Category
+![Revenue by Category](revenue_by_category.png)
+
+
+## ⏰ Orders by Hour
+![Orders by Hour](orders_by_hour.png)
+
 
 ## 🛠️ Tools Used
 - MySQL Workbench 8.0
